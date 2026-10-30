@@ -1,0 +1,6 @@
+{
+  "name": "MachineMate - Factory Worker's AI Companion",
+  "description": "Voice-first multilingual assistant for factory floor workers. Instant QR code machine guidance, spoken step-by-step SOPs in Hindi, Tamil, Telugu, and English, offline caching, doubt logging, and emergency alerts.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
